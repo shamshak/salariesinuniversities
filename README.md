@@ -1,6 +1,6 @@
 # Russian universities' top managers: average monthly earnings
 
-Here we present the data for 15 selected Russian universities' top managers — rectors, chief accountants, vice rectors. This data set was collected while preparing the graduation work for the Higher School of Economics. It consists of the information about the average monthly earnings of the specified educational professionals.
+Here we present the data for 15 selected Russian universities' top managers — rectors, chief accountants, vice rectors. This data set was collected while preparing the graduation work for the Higher School of Economics. It consists of the information about the average monthly earnings of the specified educational professionals in the period from 2015 to 2019.
 
 We offer CSV data format which is easier to grok. It provides a good introduction to the chosen research field.
 
