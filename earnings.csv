@@ -1,0 +1,374 @@
+id,university,city,Role,name,year,monthSalary
+1,State University of Management,Moscow,actingRector,Строев Владимир,2016,379597
+2,State University of Management,Moscow,chiefAccountant,Дмитриева Наталья,2016,333833
+3,State University of Management,Moscow,viceRector,Михайлов Николай,2016,389337
+4,State University of Management,Moscow,viceRector,Фомин Павел,2016,398610
+5,State University of Management,Moscow,viceRector,Лапшенков Виталий,2016,350400
+6,State University of Management,Moscow,viceRector,Чуев Сергей,2016,231846
+7,State University of Management,Moscow,actingRector,Строев Владимир,2017,483618
+8,State University of Management,Moscow,actingRector,Лобанов Иван,2017,326894
+9,State University of Management,Moscow,actingchiefAccountant,Дементьева Лариса,2017,108207
+10,State University of Management,Moscow,viceRector,Михайлов Николай,2017,382310
+11,State University of Management,Moscow,viceRector,Фомин Павел,2017,325098
+12,State University of Management,Moscow,viceRector,Лапшенков Виталий,2017,265628
+13,State University of Management,Moscow,viceRector,Чуев Сергей,2017,202897
+14,State University of Management,Moscow,actingRector,Лобанов Иван,2018,607165
+15,State University of Management,Moscow,viceRector,Гончаров Игорь,2018,347246
+16,State University of Management,Moscow,viceRector,Екимова Ксения,2018,584728
+17,State University of Management,Moscow,viceRector,Троицкий Александр,2018,544747
+18,State University of Management,Moscow,viceRector,Володина Светлана,2018,436104
+19,State University of Management,Moscow,viceRector,Малкарова Светлана,2018,397074
+20,State University of Management,Moscow,viceRector,Михайлов Николай,2018,296614
+21,State University of Management,Moscow,viceRector,Строев Владимир,2018,209512
+22,State University of Management,Moscow,chiefAccountant,Дементьева Лариса,2018,521611
+23,MADI,Moscow,actingRector,Ницевич Виктор,2017,277704
+24,MADI,Moscow,chiefAccountant,Сивачева Руслана,2017,202065
+25,MADI,Moscow,firstviceRector,Судоргин Олег,2017,259744
+26,MADI,Moscow,viceRector,Ременцов Андрей,2017,201564
+27,MADI,Moscow,viceRector,Жанказиев Султан,2017,109658
+28,MADI,Moscow,viceRector,Зиманов Лев,2017,163633
+29,MADI,Moscow,viceRector,Сова Александр,2017,136358
+30,MADI,Moscow,viceRector,Карелина Марина,2017,259735
+31,MADI,Moscow,viceRector,Павлов Константин,2017,165627
+32,MADI,Moscow,actingRector,Кустарев Геннадий,2018,457305
+33,MADI,Moscow,chiefAccountant,Сивачева Руслана,2018,236941
+34,MADI,Moscow,viceRector,Зиманов Лев,2018,241254
+35,MADI,Moscow,viceRector,Шевченко Владимир,2018,262475
+36,MADI,Moscow,viceRector,Ушаков Виктор,2018,356284
+37,MADI,Moscow,viceRector,Чубуков Александр,2018,229752
+38,MADI,Moscow,viceRector,Строганов Владимир,2018,259753
+39,MADI,Moscow,actingRector,Кустарев Геннадий,2019,599005
+40,MADI,Moscow,chiefAccountant,Сивачева Руслана,2019,237628
+41,MADI,Moscow,viceRector,Ушаков Виктор,2019,267220
+42,MADI,Moscow,viceRector,Зиманов Лев,2019,247668
+43,MADI,Moscow,viceRector,Чубуков Александр,2019,250475
+44,MADI,Moscow,viceRector,Строганов Владимир,2019,225993
+45,MADI,Moscow,viceRector,Шевченко Владимир,2019,232578
+46,MGLU,Moscow,actingRector,Краева Ирина,2017,380058
+47,MGLU,Moscow,viceRector,Гусейнова Иннара,2017,376128
+48,MGLU,Moscow,viceRector,Егоров Виктор,2017,201204
+49,MGLU,Moscow,viceRector,Смольянникова Ирина,2017,197745
+50,MGLU,Moscow,chiefAccountant,Пищева Яна,2017,320048
+51,MGLU,Moscow,Rector,Краева Ирина,2018,635001
+52,MGLU,Moscow,viceRector,Гусейнова Иннара,2018,353503
+53,MGLU,Moscow,viceRector,Петручак Лариса,2018,354176
+54,MGLU,Moscow,chiefAccountant,Пищева Яна,2018,335095
+55,MGLU,Moscow,viceRector, Царегородцев Анатолий,2018,392700
+56,MGLU,Moscow,Rector,Краева Ирина,2019,583713
+57,MGLU,Moscow,viceRector,Ирисханова Ольга,2019,320750
+58,MGLU,Moscow,viceRector,Гусейнова Иннара,2019,353252
+59,MGLU,Moscow,viceRector,Петручак Лариса,2019,352058
+60,MGLU,Moscow,viceRector,Царегородцев Анатолий,2019,393664
+61,MGLU,Moscow,chiefAccountant,Пищева Яна,2019,334730
+62,MISIS,Moscow,Rector,Черникова Алевтина,2016,475844
+63,MISIS,Moscow,viceRector,Абросимов Олег,2016,236226
+64,MISIS,Moscow,viceRector,Исаев Игорь,2016,400025
+65,MISIS,Moscow,viceRector,О'Коннор Тимоти,2016,392449
+66,MISIS,Moscow,viceRector,Петров Вадим,2016,299641
+67,MISIS,Moscow,viceRector,Филонов Михаил,2016,385945
+68,MISIS,Moscow,viceRector,Хван Вячеслав,2016,267752
+69,MISIS,Moscow,chiefAccountant,Кравцова Анна,2016,320099
+70,MISIS,Moscow,Rector,Черникова Алевтина,2017,513893
+71,MISIS,Moscow,President,Карабасов Юрий,2017,448122
+72,MISIS,Moscow,viceRector,Абросимов Олег,2016,236226
+73,MISIS,Moscow,viceRector,О'Коннор Тимоти,2017,496429
+74,MISIS,Moscow,viceRector,Петров Вадим,2017,436997
+75,MISIS,Moscow,viceRector,Филонов Михаил,2017,380459
+76,MISIS,Moscow,viceRector,Хван Вячеслав,2017,391546
+77,MISIS,Moscow,chiefAccountant,Кравцова Анна,2016,350213
+78,MISIS,Moscow,Rector,Черникова Алевтина,2018,663954
+79,MISIS,Moscow,viceRector,Абросимов Олег,2018,480270
+80,MISIS,Moscow,viceRector,О'Коннор Тимоти,2018,447752
+81,MISIS,Moscow,viceRector,Петров Вадим,2018,486107
+82,MISIS,Moscow,viceRector,Филонов Михаил,2018,454266
+83,MISIS,Moscow,viceRector,Хван Вячеслав,2018,474475
+84,MISIS,Moscow,chiefAccountant,Кравцова Анна,2018,396992
+85,MFTI,Moscow,Rector,Кудрявцев Николай,2016,591455
+86,MFTI,Moscow,viceRector,Анохова Елена,2016,325680
+87,MFTI,Moscow,viceRector,Аушев Тагир,2016,497330
+88,MFTI,Moscow,viceRector,Воронов Артем,2016,367627
+89,MFTI,Moscow,viceRector,Гаричев Сергей,2016,232741
+90,MFTI,Moscow,viceRector,Деревнина Анна,2016,233869
+91,MFTI,Moscow,viceRector,Евсеев Евгений,2016,372168
+92,MFTI,Moscow,viceRector,Зубцов Дмитрий,2016,337313
+93,MFTI,Moscow,viceRector,Ланчаков Дмитрий,2016,318762
+94,MFTI,Moscow,viceRector,Петушков Владимир,2016,322653
+95,MFTI,Moscow,viceRector,Толстиков Михаил, 2016,183112
+96,MFTI,Moscow,chiefAccountant,Терещенко Татьяна,2016,174111
+97,MFTI,Moscow,Rector,Кудрявцев Николай,2017,519388
+98,MFTI,Moscow,viceRector,Анохова Елена,2017,387439
+99,MFTI,Moscow,viceRector,Аушев Тагир,2017,294986
+100,MFTI,Moscow,viceRector,Воронов Артем,2017,409742
+101,MFTI,Moscow,viceRector,Гаричев Сергей,2017,403361
+102,MFTI,Moscow,viceRector,Евсеев Евгений,2017,297855
+103,MFTI,Moscow,viceRector,Зубцов Дмитрий,2017,296476
+104,MFTI,Moscow,viceRector,Зайцев Константин,2017,356188
+105,MFTI,Moscow,viceRector,Ланчаков Дмитрий,2017,380501
+106,MFTI,Moscow,chiefAccountant,Поздеев Павел,2017,204132
+107,MFTI,Moscow,chiefAccountant,Терещенко Татьяна,2017,187753
+108,MFTI,Moscow,Rector,Кудрявцев Николай,2018,724482
+109,MFTI,Moscow,viceRector,Анохова Елена,2018,442174
+110,MFTI,Moscow,viceRector,Воронов Артем,2018,516693
+111,MFTI,Moscow,viceRector,Гаричев Сергей,2018,436691
+112,MFTI,Moscow,viceRector,Малеев Алексей,2018,405307
+113,MFTI,Moscow,viceRector,Зайцев Константин,2018,434123
+114,MFTI,Moscow,viceRector,Баган Виталий,2018,464647
+115,MFTI,Moscow,chiefAccountant,Покровская-Креус Марина,2018,218825
+116,MFTI,Moscow,chiefAccountant,Поздеев Павел,2018,183800
+117,RGPU Herzen,SaintPetersburg,Rector,Соломин Валерий,2016,319620
+118,RGPU Herzen,SaintPetersburg,actingRector,Рабош Василий,2016,401764
+119,RGPU Herzen,SaintPetersburg,actingRector,Богданов Сергей,2016,262140
+120,RGPU Herzen,SaintPetersburg,viceRector,Гончаров Сергей,2016,337781
+121,RGPU Herzen,SaintPetersburg,viceRector,Лаптев Владимир,2016,328975
+122,RGPU Herzen,SaintPetersburg,viceRector,Кантор Виталий,2016,295642
+123,RGPU Herzen,SaintPetersburg,viceRector,Рабош Василий,2016,196486
+124,RGPU Herzen,SaintPetersburg,viceRector,Махов Сергей,2016,244944
+125,RGPU Herzen,SaintPetersburg,viceRector,Бойков Дмитрий,2016,227309
+126,RGPU Herzen,SaintPetersburg,viceRector,Пучков Михаил,2016,231718
+127,RGPU Herzen,SaintPetersburg,viceRector,Полищук Олег,2016,247652
+128,RGPU Herzen,SaintPetersburg,viceRector,Рукинов Владимир,149055
+129,RGPU Herzen,SaintPetersburg,chiefAccountant,Михайлова Елена,2016,494451
+130,RGPU Herzen,SaintPetersburg,Rector,Богданов Сергей,2017,307548
+131,RGPU Herzen,SaintPetersburg,actingRector,Рабош Василий,2017,398077
+132,RGPU Herzen,SaintPetersburg,actingRector,Бордовский Геннадий,2017,294867
+133,RGPU Herzen,SaintPetersburg,viceRector,Лаптев Владимир,2017,432806
+134,RGPU Herzen,SaintPetersburg,viceRector,Мухудадаев Магомед,2017,352737
+135,RGPU Herzen,SaintPetersburg,viceRector,Пучков Михаил,2017,355687
+136,RGPU Herzen,SaintPetersburg,viceRector,Антонов Игорь,2017,356347
+137,RGPU Herzen,SaintPetersburg,viceRector,Лопатин Вячеслав,2017,358809
+138,RGPU Herzen,SaintPetersburg,chiefAccountant,Михайлова Елена,2017,427583
+139,RGPU Herzen,SaintPetersburg,Rector,Богданов Сергей,2018,513195
+140,RGPU Herzen,SaintPetersburg,actingRector,Рабош Василий,2018,442829
+141,RGPU Herzen,SaintPetersburg,actingRector,Бордовский Геннадий,2018,310962
+142,RGPU Herzen,SaintPetersburg,viceRector,Цветкова Лариса,2018,475098
+143,RGPU Herzen,SaintPetersburg,viceRector,Лаптев Владимир,2018,396513
+144,RGPU Herzen,SaintPetersburg,viceRector,Махов Сергей,2018,376049
+145,RGPU Herzen,SaintPetersburg,viceRector,Комарова Юлия,2018,391225
+146,RGPU Herzen,SaintPetersburg,viceRector,Пучков Михаил,2018,362851
+147,RGPU Herzen,SaintPetersburg,viceRector,Лопатин Вячеслав,2018,444478
+148,RGPU Herzen,SaintPetersburg,viceRector,Мухудадаев Магомед,2018,458873
+149,RGPU Herzen,SaintPetersburg,viceRector,Антонов Игорь,2018,395755
+150,RGPU Herzen,SaintPetersburg,chiefAccountant,Михайлова Елена,2018,433500
+151,RGPU Herzen,SaintPetersburg,chiefAccountant,Измайлова Надежда,2018,327066
+152,MGIMO,Moscow,Rector,Торкунов Анатолий,2017,469778
+153,MGIMO,Moscow,viceRector,Кириллов Виктор,2017,386866
+154,MGIMO,Moscow,viceRector,Кожокин Евгений,2017,236740
+155,MGIMO,Moscow,viceRector,Малыгин Артем,2017,268424
+156,MGIMO,Moscow,viceRector,Кузьмина Наталия,2017,221567
+157,MGIMO,Moscow,viceRector,Байков Андрей,2017,286716
+158,MGIMO,Moscow,viceRector,Морозов Владимир,2017,309953
+159,MGIMO,Moscow,viceRector,Логинов Игорь,2017,289127
+160,MGIMO,Moscow,viceRector,Шитьков Сергей,2017,239641
+161,MGIMO,Moscow,viceRector,Коломыцев Дмитрий,2017,206136
+162,MGIMO,Moscow,chiefAccountant,Гриценко Елена,2017,219401
+163,MGIMO,Moscow,Rector,Торкунов Анатолий,2018,464624
+164,MGIMO,Moscow,viceRector,Кириллов Виктор,2018,342876
+165,MGIMO,Moscow,viceRector,Кожокин Евгений,2018,269584
+166,MGIMO,Moscow,viceRector,Малыгин Артем,2018,356987
+167,MGIMO,Moscow,viceRector,Кузьмина Наталия,2018,249059
+168,MGIMO,Moscow,viceRector,Байков Андрей,2018,277090
+169,MGIMO,Moscow,viceRector,Морозов Владимир,2018,330781
+170,MGIMO,Moscow,viceRector,Логинов Игорь,2018,288543
+171,MGIMO,Moscow,viceRector,Шитьков Сергей,2018,278387
+172,MGIMO,Moscow,viceRector,Коломыцев Дмитрий,2018,221317
+173,MGIMO,Moscow,chiefAccountant,Гриценко Елена,2018,258837
+174,MGU,Moscow,Rector,Садовничий Виктор,2015,240896
+175,MGU,Moscow,viceRector,Вржец Петр,2015,205610
+176,MGU,Moscow,viceRector,Гребнева Марина,2015,290278
+177,MGU,Moscow,viceRector,Кортава Татьяна,2015,267036
+178,MGU,Moscow,chiefAccountant,Мазина Галина,2015,263341
+179,MGU,Moscow,viceRector,Семин Николай,2015,187477
+180,MGU,Moscow,viceRector,Степанов Алексей,2015,213319
+181,MGU,Moscow,viceRector,Трофимов Виктор,2015,322946
+182,MGU,Moscow,viceRector,Федянин Андрей,2015,429149
+183,MGU,Moscow,viceRector,Хохлов Алексей,2015,701124
+184,MGU,Moscow,Rector,Садовничий Виктор,2016,904197
+185,MGU,Moscow,viceRector,Семин Николай,2016,192407
+186,MGU,Moscow,viceRector,Степанов Алексей,2016,163956
+187,MGU,Moscow,viceRector,Федянин Андрей,2016,476561
+188,MGU,Moscow,viceRector,Хохлов Алексей,2016,636269
+189,MGU,Moscow,viceRector,Вржец Петр,2016,208842
+190,MGU,Moscow,viceRector,Гребнева Марина,2016,256683
+191,MGU,Moscow,viceRector,Егоров Сергей,2016,210415
+192,MGU,Moscow,viceRector,Кортава Татьяна,2016,252801
+193,MGU,Moscow,viceRector,Мазей Юрий,2016,568817
+194,MGU,Moscow,viceRector,Марченко Владимир,2016,227044
+195,MGU,Moscow,chiefAccountant,Мазина Галина,2016,212059
+196,MGU,Moscow,viceRector,Миньяр-Белоручев Константин,2016,199566
+197,MGU,Moscow,Rector,Садовничий Виктор,2017,973149
+198,MGU,Moscow,viceRector,Вайпан Виктор,2017,487698
+199,MGU,Moscow,viceRector,Вржец Петр,2017,255302
+200,MGU,Moscow,viceRector,Егоров Сергей,2017,263182
+201,MGU,Moscow,viceRector,Кортава Татьяна,2017,314112
+202,MGU,Moscow,viceRector,Мазей Юрий,2017,420631
+203,MGU,Moscow,chiefAccountant,Мазина Галина,2017,234998
+204,MGU,Moscow,viceRector,Миньяр-Белоручев Константин,2017,246994
+205,MGU,Moscow,viceRector,Семин Николай,2017,221802
+206,MGU,Moscow,viceRector,Степанов Алексей,2017,273268
+207,MGU,Moscow,viceRector,Федянин Андрей,2017,527390
+208,MGU,Moscow,Rector,Садовничий Виктор,2018,1093176
+209,SPBGU,SaintPetersburg,Rector,Кропачев Николай,2015,1549046
+210,SPBGU,SaintPetersburg,viceRector,Бабелюк Екатерина,2015,469857
+211,SPBGU,SaintPetersburg,viceRector,Богданов Сергей,2015,326612
+212,SPBGU,SaintPetersburg,viceRector,Вершицкий Александр,2015,182287
+213,SPBGU,SaintPetersburg,viceRector,Гоголевский Александр,2015,184122
+214,SPBGU,SaintPetersburg,viceRector,Дементьев Илья,2015,683021
+215,SPBGU,SaintPetersburg,viceRector,Кудилинский Михаил,2015,428467
+216,SPBGU,SaintPetersburg,viceRector,Лаврикова Марина,2015,392910
+217,SPBGU,SaintPetersburg,viceRector,Туник Сергей,2015,435693
+218,SPBGU,SaintPetersburg,viceRector,Чернова Елена,2015,512996
+219,SPBGU,SaintPetersburg,chiefAccountant,Чиркова Галина,2015,351403
+220,SPBGU,SaintPetersburg,Rector,Кропачев Николай,2016,1096585
+221,SPBGU,SaintPetersburg,deputyRector,Андрюшин Сергей,2016,148769
+222,SPBGU,SaintPetersburg,viceRector,Аплонов Сергей,2016,251667
+223,SPBGU,SaintPetersburg,viceRector,Бабелюк Екатерина,2016,697443
+224,SPBGU,SaintPetersburg,viceRector,Вершицкий Александр,2016,227472
+225,SPBGU,SaintPetersburg,viceRector,Дементьев Илья,2016,870290
+226,SPBGU,SaintPetersburg,viceRector,Кудилинский Михаил,2016,484644
+227,SPBGU,SaintPetersburg,viceRector,Лаврикова Марина,2016,384253
+228,SPBGU,SaintPetersburg,viceRector,Чернова Елена,2016,851357
+229,SPBGU,SaintPetersburg,chiefAccountant,Чиркова Галина,2016,402588
+230,SPBGU,SaintPetersburg,Rector,Кропачев Николай,2017,1405750
+231,SPBGU,SaintPetersburg,deputyRector,Андрюшин Сергей,2017,237189
+232,SPBGU,SaintPetersburg,viceRector,Аплонов Сергей,2017,281149
+233,SPBGU,SaintPetersburg,viceRector,Бабелюк Екатерина,2017,742429
+234,SPBGU,SaintPetersburg,viceRector,Дементьев Илья,2017,1247408
+235,SPBGU,SaintPetersburg,viceRector,Кудилинский Михаил,2017,473411
+236,SPBGU,SaintPetersburg,viceRector,Лаврикова Марина,2017,435190
+237,SPBGU,SaintPetersburg,viceRector,Федотов Юрий,2017,699370
+238,SPBGU,SaintPetersburg,viceRector,Чернова Елена,2017,882867
+239,SPBGU,SaintPetersburg,chiefAccountant,Чиркова Галина,2017,451961
+240,SPBGU,SaintPetersburg,Rector,Кропачев Сергей,2018,1138680
+241,SPBGU,SaintPetersburg,deputyRector,Андрюшин Сергей,2018,178402
+242,SPBGU,SaintPetersburg,viceRector,Гусарова Мария,2018,451279
+243,SPBGU,SaintPetersburg,viceRector,Еремеев Владимир,2018,581503
+244,SPBGU,SaintPetersburg,viceRector,Кудилинский Михаил,2018,492206
+245,SPBGU,SaintPetersburg,viceRector,Лаврикова Марина,2018,581102
+246,SPBGU,SaintPetersburg,viceRector,Микушев Сергей,2018,267710
+247,SPBGU,SaintPetersburg,viceRector,Пенов Юрий,2018,598648
+248,SPBGU,SaintPetersburg,viceRector,Федотов Юрий,2018,322240
+249,SPBGU,SaintPetersburg,viceRector,Чернова Елена,2018,978044
+250,SPBGU,SaintPetersburg,chiefAccountant,Чиркова Галина,2018,497334
+251,TGU,Tomsk,Rector,Галажинский Эдуард,2016,564370
+252,TGU,Tomsk,viceRector,Демин Виктор,2016,455869
+253,TGU,Tomsk,viceRector,Кулижский Сергей,2016,438586
+254,TGU,Tomsk,viceRector,Сухушин Дмитрий,2016,414853
+255,TGU,Tomsk,viceRector,Рыкун Артем,2016,393670
+256,TGU,Tomsk,viceRector,Ивонин Иван,2016,342335
+257,TGU,Tomsk,viceRector,Шутеев Олег,2016,335084
+258,TGU,Tomsk,viceRector,Беляков Константин,2016,146555
+259,TGU,Tomsk,chiefAccountant,Нагаева Галина,2016,459785
+260,TGU,Tomsk,Rector,Галажинский Эдуард,2017,517024
+261,TGU,Tomsk,President,Майер Георгий,2017,397211
+262,TGU,Tomsk,viceRector,Демин Виктор,2017,404125
+263,TGU,Tomsk,viceRector,Ивонин Иван,2017,366078
+264,TGU,Tomsk,viceRector,Сухушин Дмитрий,2017,334195
+265,TGU,Tomsk,viceRector,Шутеев Олег,2017,308505
+266,TGU,Tomsk,viceRector,Рыкун Артем,2017,346761
+267,TGU,Tomsk,viceRector,Кулижский Сергей,2017,310649
+268,TGU,Tomsk,viceRector,Беляков Константин,2017,349912
+269,TGU,Tomsk,chiefAccountant,Нагаева Галина,2017,382500
+270,TGU,Tomsk,Rector,Галажинский Эдуард,2018,664700
+271,TGU,Tomsk,President,Майер Георгий,2018,457286
+272,TGU,Tomsk,viceRector,Демин Виктор,2018,446726
+273,TGU,Tomsk,viceRector,Ивонин Иван,2018,374085
+274,TGU,Tomsk,viceRector,Сухушин Дмитрий,2018,370430
+275,TGU,Tomsk,viceRector,Шутеев Олег,2018,306029
+276,TGU,Tomsk,viceRector,Рыкун Артем,2018,351321
+277,TGU,Tomsk,viceRector,Кулижский Сергей,2018,330475
+278,TGU,Tomsk,viceRector,Беляков Константин,2018,388347
+279,TGU,Tomsk,chiefAccountant,Нагаева Галина,2018,435704
+280,MIFI,Moscow,Rector,Стриханов Михаил,2016,573439
+281,MIFI,Moscow,viceRector,Весна Елена,2016,329308
+282,MIFI,Moscow,viceRector,Дмитриев Николай,2016,513301
+283,MIFI,Moscow,viceRector,Леонова Татьяна,2016,385874
+284,MIFI,Moscow,viceRector,Нагорнов Олег,2016,525695
+285,MIFI,Moscow,viceRector,Ужва Владимир,2016,296851
+286,MIFI,Moscow,chiefAccountant,Балашова Виолетта,2016,311697
+287,MIFI,Moscow,Rector,Стриханов Михаил,2017,605593
+288,MIFI,Moscow,chiefAccountant,Балашова Виолетта,2017,338628
+289,MIFI,Moscow,viceRector,Нагорнов Олег,2017,577850
+290,MIFI,Moscow,viceRector,Весна Елена,2017,425279
+291,MIFI,Moscow,viceRector,Дмитриев Николай,2017,558977
+292,MIFI,Moscow,viceRector,Овчинников Вячеслав,2017,204702
+293,MIFI,Moscow,viceRector,Ужва Владимир,2017,396009
+294,MIFI,Moscow,viceRector,Леонова Татьяна,2017,416083
+295,MIFI,Moscow,Rector,Стриханов Михаил,2018,806787
+296,MIFI,Moscow,chiefAccountant,Балашова Виолетта,2018,381278
+297,MIFI,Moscow,viceRector,Нагорнов Олег,2018,626788
+298,MIFI,Moscow,viceRector,Весна Елена,2018,499485
+299,MIFI,Moscow,viceRector,Дмитриев Николай,2018,608505
+300,MIFI,Moscow,viceRector,Ужва Владимир,2018,475915
+301,MIFI,Moscow,viceRector,Леонова Татьяна,2018,490619
+302,KFU,Kazan,Rector,Гафуров Ильшат,2016,2011627
+303,KFU,Kazan,Rector,Гафуров Ильшат,2017,714922
+304,KFU,Kazan,Rector,Гафуров Ильшат,2018,676962
+305,URFU,Ekaterinburg,Rector,Кокшаров Виктор,2016,829688
+306,URFU,Ekaterinburg,viceRector,Бугров Дмитрий,2016,485584
+307,URFU,Ekaterinburg,viceRector,Кортов Сергей,2016,639299
+308,URFU,Ekaterinburg,chiefAccountant,Агарков Гавриил,2016,383067
+309,URFU,Ekaterinburg,Rector,Кокшаров Виктор,2017,545480
+310,URFU,Ekaterinburg,viceRector,Бугров Дмитрий,2017,325113
+311,URFU,Ekaterinburg,viceRector,Кортов Сергей,2017,316056
+312,URFU,Ekaterinburg,viceRector,Иваницкая Раиса,2017,349296
+313,URFU,Ekaterinburg,viceRector,Полтавец Андрей,2017,310670
+314,URFU,Ekaterinburg,viceRector,Хомяков Максим,2017,270752
+315,URFU,Ekaterinburg,viceRector,Кружаев Владимир,2017,326267
+316,URFU,Ekaterinburg,viceRector,Козлов Василий,2017,351565
+317,URFU,Ekaterinburg,viceRector,Князев Сергей,2017,356739
+318,URFU,Ekaterinburg,viceRector,Сандлер Даниил,2017,344244
+319,URFU,Ekaterinburg,chiefAccountant,Агарков Гавриил,2017,300549
+320,URFU,Ekaterinburg,Rector,Кокшаров Виктор,2018,1093546
+321,URFU,Ekaterinburg,viceRector,Бугров Дмитрий,2018,348763
+322,URFU,Ekaterinburg,viceRector,Кортов Сергей,2018,615041
+323,URFU,Ekaterinburg,viceRector,Кружаев Владимир,2018,392300
+324,URFU,Ekateringburg,viceRector,Князев Сергей,2018,535203
+325,URFU,Ekaterinburg,viceRector,Мезенцев Павел,2018,324308
+326,URFU,Ekaterinburg,viceRector,Полтавец Андрей,2018,331503
+327,URFU,Ekaterinburg,viceRector,Сандлер Даниил,2018,1302788
+328,URFU,Ekaterinburg,chiefAssistant,Агарков Гавриил,2018,398677
+329,ITMO,SaintPetersburg,Rector,Васильев Владимир,2018,1012778
+330,ITMO,SaintPetersburg,viceRector,Козлова Дарья,2018,652691
+331,ITMO,SaintPetersburg,viceRector,Никифоров Владимир,2018,708630
+332,ITMO,SaintPetersburg,viceRector,Иванов Андрей,2018,749339
+333,ITMO,SaintPetersburg,viceRector,Писарев Дмитрий,2018,589946
+334,ITMO,SaintPetersburg,chiefAccountant,Прудентова Елена,2018,573335
+335,ITMO,SaintPetersburg,Rector,Васильев Владимир,2017,522330
+336,ITMO,SaintPetersburg,viceRector,Козлова Дарья,2017,216651
+337,ITMO,SaintPetersburg,viceRector,Никифоров Владимир,2017,326088
+338,ITMO,SaintPetersburg,viceRector,Михайлов Николай,2017,277592
+339,ITMO,SaintPetersburg,viceRector,Иванов Андрей,2017,320872
+340,ITMO,SaintPetersburg,viceRector,Писарев Дмитрий,2017,416230
+341,ITMO,SaintPetersburg,chiefAccountant,Прудентова Елена,2017,257473
+342,ITMO,SaintPetersburg,Rector,Васильев Владимир,2016,1122493
+343,ITMO,SaintPetersburg,Rector,Васильев Владимир,2015,1182276
+344,SFU,RostovnaDonu,actingRector,Шевченко Инна,2018,283334
+345,SFU,RostovnaDonu,viceRector,Кулешова Ксения,2018,211641
+346,SFU,RostovnaDonu,viceRector,Ломакина Гульнара,2018,213394
+347,SFU,RostovnaDonu,viceRector,Метелица Анатолий,2018,239408
+348,SFU,RostovnaDony,viceRector,Пожаров Юрий,2018,195597
+349,SFU,RostovnaDonu,viceRector,Асланов Яков,2018,182947
+350,SFU,RostovnaDonu,viceRector,Муханов Евгений,2018,164879
+351,SFU,RostovnaDonu,chiefAccountant,Балашова Татьяна,2018,181581
+352,SFU,RostovnaDonu,Rector,Боровская Марина,2017,367399
+353,SFU,RostovnaDonu,viceRector,Пожаров Юрий,2017,203750
+354,SFU,RostovnaDonu,viceRector,Ломакина Гульнара,2017,177779
+355,SFU,RostovnaDonu,viceRector,Габеев Вадим,2017,178731
+356,SFU,RostovnaDonu,viceRector,Кулешова Ксения,2017,172569
+357,SFU,RostovnaDonu,viceRector,Метелица Анатолий,2017,212547
+358,SFU,RostovnaDonu,viceRector,Дюжиков Сергей,2017,175116
+359,SFU,RostovnaDonu,viceRector,Шевченко Инна,2017,201926
+360,SFU,RostovnaDonu,viceRector,Асланов Яков,2017,170945
+361,SFU,RostovnaDonu,viceRector,Резванов Александр,2017,145833
+362,SFU,RostovnaDonu,chiefAccountant,Балашова Татьяна,2017,185821
+363,SFU,RostovnaDonu,Rector,Боровская Марина,2016,442194
+364,SFU,RostovnaDonu,viceRector,Шевченко Инна,2016,275344
+365,SFU,RostovnaDonu,viceRector,Габеев Вадим,2016,176787
+366,SFU,RostovnaDonu,viceRector,Дюжиков Сергей,2016,194653
+367,SFU,RostovnaDonu,viceRector,Кирик Владимир,2016,243939
+368,SFU,RostovnaDonu,viceRector,Кулешова Ксения,2016,232299
+369,SFU,RostovnaDonu,viceRector,Ломакина Гульнара,2016,164232
+370,SFU,RostovnaDonu,viceRector,Метелица Анатолий,2016,171248
+371,SFU,RostovnaDonu,viceRector,Пожаров Юрий,2016,183382
+372,SFU,RostovnaDonu,viceRector,Пшихопов Вячеслав,2016,283394
+373,SFU,RostovnaDonu,chiefAccountant,Балашова Татьяна,2016,172097
