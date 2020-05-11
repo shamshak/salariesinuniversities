@@ -5,3 +5,5 @@ Here we present the data for 15 selected Russian universities' top managers — 
 We offer CSV data format is easier to grok and provide a good introduction to the chosen research field.
 
 The metadata here is released under the Creative Commons Public Domain CC0 licence and can be used freely by any researcher. This means that you can use it for any purpose without having to give attribution. However, we request that you actively acknowledge and give attribution to Tate wherever possible. Attribution supports future efforts to release other data.
+
+Please be aware that this tadata is not static. We continuously update it in order to correct mistakes and include new and additional information.
